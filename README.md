@@ -3,6 +3,11 @@
 <h3>A passionate and curious learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawanak0504&label=Profile%20views&color=0e75b6&style=flat" alt="bhawanak0504" /> </p>
 
+
+<img src="https://github.com/bhawanak0504/bhawanak0504/assets/117829849/e7bc21a6-fe9a-4bb6-b08e-0876f63474b5" align= center height="800" width="800"></img>
+
+
+
 - 🌱 I’m currently learning **java,python,DSA and Different programming languages..**
 
 - 💬 Ask me about **any programming problem...**
